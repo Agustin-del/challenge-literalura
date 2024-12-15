@@ -1,3 +1,4 @@
+<h1>Challenge Literalura - Alura Latam backend.</h1>
 Sea bienvenido, la idea de esto fue generar un programa CLI que ofrece una interfaz
 pseudo-biblioteca personal utilizando por detrás la API de gutendex.
 Por el momento puede agregar libros a la base de datos, y puede realizar distintas búsquedas.
@@ -7,6 +8,7 @@ Se podría usar para mantener una lista de libros leídos, libros por leer
 y ver pero se me acaba de ocurrir mientras escribía esto eso de usarlo como biblio personal).
 
 Importante - Configuración
+
 Este proyecto utiliza variables de entorno con los siguientes nombres:
 DB_HOST
 DB_NAME
